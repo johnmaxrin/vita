@@ -79,7 +79,7 @@ Asha Joseph, Shiju George, **Robert K Samuel,** “*A P2P Digital Voting system 
 <br>
 
 # Videos / News
-#### Yuva Mastermind 2014 -- Finalist in Yuva Mastermind 2014, A state level innovation competition. 
+#### Yuva Mastermind 2014 -- Finalist, A state level innovation competition. 
 [Watch video here](https://youtu.be/M6c0NleknaQ)
 
 
