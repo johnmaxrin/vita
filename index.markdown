@@ -15,7 +15,7 @@ Hi, I am Robert and I am doing my bachelor's in Information Technology. I am int
 
 # Ongoing Projects
 
-### Distributed Learning -- Final Year Thesis
+### Internet of Drones -- Final Year Thesis
 <img style="float: left; margin-right:10px; height:50px; width:50px;" src="images/qn.jpeg">
 Will be soon updated. <br><br><br>
 
