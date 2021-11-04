@@ -15,9 +15,9 @@ Hi, I am Robert and I am doing my bachelor's in Information Technology. I am int
 
 # Ongoing Projects
 
-### Internet of Flying THings -- Final Year Thesis
+### Skyfall -- Final Year Thesis
 <img style="float: left; margin-right:10px; height:50px; width:50px;" src="images/qn.jpeg">
-Project Blue is all about developing a FANET for MAVs through which MAVs can share their local resources efficiently which in turn will increase the flight
+Project Skyfall is all about developing a FANET for MAVs through which MAVs can share their local resources efficiently which in turn will increase the flight
 time of entire MAVs connected to that FANET. The flight time of MAVs decreases rapidly as the number of sensors in MAVs increases. When dealing with a swarm of such MAVs, Flight time matters, and the data from the sensors of all MAVs might not be necessary most of the time. If an MAV can share its local resource with other MAVs like sensor data, location, Etc through a FANET in an efficient way, it can increase the flight time significantly. <br><br><br>
 
 
