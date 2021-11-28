@@ -7,7 +7,7 @@ title: 🛸 Homepage
 ---
 
 # About
-Hello, I am Robert and I am pursuing my bachelor's degree in Information Technology. I am interested in **Autonomous MAVs**, Swarm Intelligence, **IoT**, Peer-to-Peer Networks, Deep Learning, Distributed Learning, and Web Application Development tools. My current project is **Herd AI**, an autonomous swarm of MAVs that can move together and can be tracked over the internet. I am very interested in solving problems in the area of IoT.
+Hello, I am Robert and I am pursuing my bachelor's degree in Information Technology. I am interested in **Autonomous MAVs**, Swarm Intelligence, **IoT**, Peer-to-Peer Networks, Deep Learning, Distributed Learning, and Web Application Development tools. My current project is **Herd AI**, an autonomous swarm of MAVs that can move together and can be tracked over the internet. My main interest is solving problems in the area of IoT, specifically in the field of Internet of Flying Things. 
 
 ---
 
@@ -15,15 +15,14 @@ Hello, I am Robert and I am pursuing my bachelor's degree in Information Technol
 
 # Ongoing Projects
 
-### Skyfall -- Final Year Thesis
+### Skynet -- Final Year Project
 <img style="float: left; margin-right:10px; height:50px; width:50px;" src="images/swarm.png">
-Project Skyfall is all about developing a FANET for MAVs through which MAVs can share their local resources efficiently which in turn will increase the flight
-time of entire MAVs connected to that FANET. The flight time of MAVs decreases rapidly as the number of sensors in MAVs increases. When dealing with a swarm of such MAVs, Flight time matters, and the data from the sensors of all MAVs might not be necessary most of the time. If an MAV can share its local resource with other MAVs like sensor data, location, Etc through a FANET in an efficient way, it can increase the flight time significantly. <br><br><br>
+Project Skyfall aims at developing a FANET for MAVs to enable them to share resources efficiently, thus increasing the flight time of all associated MAVs. As the number of sensors in MAVs increases, flight time decreases rapidly. With a swarm of such MAVs, flight time matters, and the data from all of the MAVs might not be needed most of the time. A FANET can significantly increase flight time if an MAV shares its local resources efficiently with other MAVs, including sensor data, location, and so on. <br><br><br>
 
 
 ### Herd Ai
 <img style="float: left; margin-right:10px; height:50px; width:50px;" src="images/herd.jpg">
-The project aims at building autonomous swarms of Micro UAVs for defense purposes.  Theseswarms can be tracked over the internet and can be controlled minimally over the internet.  Thisproject is an ongoing funded project.  More about this project can be [found here.](https://johnmaxrin.github.io/herdAI/)
+Using Micro UAVs for defense, the project aims to build an autonomous swarm of micro-drones. This swarm of drones can be tracked over the Internet, and it can be controlled in a small way. Currently, this project is funded on an ongoing basis. More about this project can be [found here.](https://johnmaxrin.github.io/herdAI/)
 
 ---
 <br>
