@@ -17,7 +17,7 @@ Hello, my name is Robert and I am pursuing my bachelor's degree in Information T
 
 ### Skynet -- Final Year Project
 <img style="float: left; margin-right:10px; height:50px; width:50px;" src="images/swarm.png">
-Project Skyfall aims at developing a FANET for MAVs to enable them to share resources efficiently, thus increasing the flight time of all associated MAVs. As the number of sensors in MAVs increases, flight time decreases rapidly. With a swarm of such MAVs, flight time matters, and the data from all of the MAVs might not be needed most of the time. A FANET can significantly increase flight time if an MAV shares its local resources efficiently with other MAVs, including sensor data, location, and so on. <br><br><br>
+Project Skynet aims at developing a FANET for MAVs to enable them to share resources efficiently, thus increasing the flight time of all associated MAVs. As the number of sensors in MAVs increases, flight time decreases rapidly. With a swarm of such MAVs, flight time matters, and the data from all of the MAVs might not be needed most of the time. A FANET can significantly increase flight time if an MAV shares its local resources efficiently with other MAVs, including sensor data, location, and so on. <br><br><br>
 
 
 ### Herd Ai
