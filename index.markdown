@@ -54,7 +54,7 @@ The  main  aim  behind  this  project  was  to  learn  how  a  programming  lang
 
 ### Research
 [Impact Lab](https://www.leopardtechlabs.com/) -- **Present**  <br>
-Worked in the Geo-tagging section and used various frameworks and plugins to enable the location content delivery feature.  After that,  I was assigned with the work of using AWSBucket to store user-generated Images and to tag them automatically.  This internship was very helpful in getting to know more about industrial standards. <br> <br>
+Currently, I serve as the coordinator of Impact Lab. The majority of my work at Impact Lab focuses on FANET, IoFT, and IoT. Together with Dr. Asha Joseph, we developed a peer-to-peer network-based voting system. In addition, I received funding from ASCII for one of my ongoing research projects at Impact Lab. It also exposed me to research methodologies, how to become resilient, as well as how to deal with rejection. <br> <br>
 
 ### Full Stack Developer
 [Leopard Tech Labs](https://www.leopardtechlabs.com/) -- **6 Months**  <br>
@@ -79,7 +79,7 @@ Asha Joseph, Shiju George, **Robert K Samuel,** “*A P2P Digital Voting system 
 <br>
 
 # Videos / News
-#### Yuva Mastermind 2014 -- Finalist, A state level innovation competition. 
+#### Yuva Mastermind 2014 -- Finalist, A State Level Innovation Competition. 
 [Watch video here](https://youtu.be/M6c0NleknaQ)
 
 
