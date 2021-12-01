@@ -7,7 +7,7 @@ title: 🛸 Homepage
 ---
 
 # About
-Hello, I am Robert and I am pursuing my bachelor's degree in Information Technology. I am interested in **Autonomous MAVs**, Swarm Intelligence, **IoT**, Peer-to-Peer Networks, Deep Learning, Distributed Learning, and Web Application Development tools. My current project is **Herd AI**, an autonomous swarm of MAVs that can move together and can be tracked over the internet. My main interest is solving problems in the area of IoT, specifically in the field of Internet of Flying Things. 
+Hello, my name is Robert and I am pursuing my bachelor's degree in Information Technology. Among my research interests are **Autonomous Micro Aerial Vehicles (MAVs)**, Swarm Intelligence, **Flying Ad-Hoc Network (FANET)**, **Internet of Flying Things (IoFT)**, Internet of Things (IoT), Peer-to-Peer Networks (P2P), Deep Learning, Distributed Learning, and Web Application Development Tools. Herd AI, an autonomous swarm of MAVs that can move together and be tracked online, is my current project. Specifically, I am interested in solving problems related to IoT, specifically the Internet of Flying Things. 
 
 ---
 
