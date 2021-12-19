@@ -82,6 +82,8 @@ Asha Joseph, Shiju George, **Robert K Samuel,** “*A P2P Digital Voting system 
 #### Yuva Mastermind 2014 -- Finalist, A State Level Innovation Competition. 
 [Watch video here](https://youtu.be/M6c0NleknaQ)
 
+#### Drone'KP -- Finalist, Autonomous MAV. 
+<img src="images/apkt.png">
 
 ---
 
