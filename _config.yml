@@ -52,7 +52,7 @@ twitter_username: robert
 github_username:  johnmaxrin
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
