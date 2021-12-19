@@ -24,12 +24,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   <img src = "images/rob.jpeg" caption="hello" height="250" width="250"/><br>
   
   <h3>Research Interests</h3><p>
-    <li>Autonomous Micro UAVs</li>
+    <li>Autonomous MAVs</li>
     <li>FANET</li>
     <li>Internet of Flying Things</li>
+    <li>Embedded AI</li>
     <li>Swarm Intelligence</li>
     <li>Distributed Systems</li>
-    <li>Deep Neural Network</li>
     <li>Software Development Tools</li> </p>
   
   <h3>Contact</h3>
