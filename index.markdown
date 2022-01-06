@@ -62,12 +62,12 @@ Currently, I serve as the coordinator of Impact Lab. The majority of my work at 
 [Leopard Tech Labs](https://www.leopardtechlabs.com/) -- **6 Months**  <br>
 Worked in the Geo-tagging section and used various frameworks and plugins to enable the location content delivery feature.  After that,  I was assigned with the work of using AWSBucket to store user-generated Images and to tag them automatically.  This internship was very helpful in getting to know more about industrial standards. <br> <br>
 [Applore Tech](https://applore.in/) -- **1 Month** <br>
-Worked with an e-commerce client to build their online store application using flutter and firebase.  Worked closely with the UX/UI team which gave a great insights into the importance of UX/UI.
+Worked with an e-commerce client to build their online store application using flutter and firebase.  Worked closely with the UX/UI team which gave a great insight into the importance of UX/UI.
 
 
 ### Flutter Developer
 [Seventy3 Inc](http://seventy3.tech/) -- **12 Months** <br>
-Built  an  application  that  helped  people  to  find  local  skilled/unskilled  workers,  Within  a radius  of  5  Kms.   This  application  was  slowly  gaining  traction  and  eventually  became  a hectic task for a team of four to manage the entire application.  The app is still available in the play store (India).
+Built  an  application  that  helped  people  to  find  local  skilled/unskilled  workers,  Within  a radius  of  5  Kms.   This  application  was  slowly  gaining  traction  and  eventually  became  a huge task for a team of four to manage the entire application.  The app is still available in the play store (India).
 
 ---
 
