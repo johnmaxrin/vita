@@ -103,7 +103,7 @@ Credential ID **Not Yet Finished** <br>
 <br> <br>
 
 ### Convolutional Neural Networks
-Issuing organization **Udemy** <br>
+Issuing organization **Deeplearning.ai** <br>
 Issue date **October 2019** <br>
 Credential ID **ZMQ84FDH3QZW** <br>
 [See Certificate](https://www.coursera.org/account/accomplishments/certificate/ZMQ84FDH3QZW?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
