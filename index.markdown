@@ -7,7 +7,9 @@ title: 🛸 Homepage
 ---
 
 # About
-Hello, my name is Robert and I am pursuing my bachelor's degree in Information Technology. Among my research interests are **Autonomous Micro Aerial Vehicles (MAVs)**, Swarm Intelligence, **Flying Ad-Hoc Network (FANET)**, **Internet of Flying Things (IoFT)**, Internet of Things (IoT), Peer-to-Peer Networks (P2P), Deep Learning, Distributed Learning, and Web Application Development Tools. Herd AI, an autonomous swarm of MAVs that can move together and be tracked online, is my current project. Specifically, I am interested in solving problems related to IoT, specifically the Internet of Flying Things. 
+Hi, I'm Robert and I'm a bachelor's student at Amal Jyothi College of Engineering. Currently, I serve as the coordinator for ***Impact Lab***, which conducts cross-domain research with professors who are pioneers in their field. Being a part of the Impact Lab will made me stand out as a student. I have taken part in more than 20 hackathons across South India. Since the start of my engineering journey, I have worked on several individual projects, some of which were even funded. At the moment, I am working on autonomous drones and the networks that connect them. 
+
+I love to read a lot. In my free time I also develop web applications to familiarize myself with the new developments that occur on a daily basis in the field of web application. 
 
 ---
 
@@ -42,7 +44,7 @@ Work is an online platform to find gig work and to find a worker. You can partne
 ### Intervan
 
 <img style="float: left; margin-right:10px; height:50px; width:50px;" src="images/intervan.jpg">
-The  main  aim  behind  this  project  was  to  learn  how  a  programming  language  works  and,During my free time, I used to build Intervan.  It gave me a great insight into the working ofa compiled programming language. [Github Link](https://github.com/johnmaxrin/Intervan)
+The  main  aim  behind  this  project  was  to  learn  how  a  programming  language  works  and,During my free time, I used to build Intervan.  It gave me a great insight into the working of a compiled programming language. [Github Link](https://github.com/johnmaxrin/Intervan)
 
 
 
