@@ -7,7 +7,7 @@ title: 🛸 Homepage
 ---
 
 # About
-Hi, I'm Robert and I'm a bachelor's student at Amal Jyothi College of Engineering. Currently, I serve as the coordinator for ***Impact Lab***, which conducts cross-domain research with professors who are pioneers in their field. Being a part of the Impact Lab will made me stand out as a student. I have taken part in more than 20 hackathons across South India. Since the start of my engineering journey, I have worked on several individual projects, some of which were even funded. At the moment, I am working on autonomous drones and the networks that connect them. 
+Hi, I'm Robert and I'm a bachelor's student at Amal Jyothi College of Engineering. Currently, I serve as the coordinator for ***Impact Lab***, which conducts cross-domain research with professors who are pioneers in their field. Being a part of the Impact Lab made me stand out as a student. I have taken part in more than 20 hackathons across South India. Since the start of my engineering journey, I have worked on several individual projects, some of which were even funded. At the moment, I am working on autonomous drones and the networks that connect them. 
 
 I love to read a lot. In my free time I also develop web applications to familiarize myself with the new developments that occur on a daily basis in the field of web application. 
 
