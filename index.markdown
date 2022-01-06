@@ -76,8 +76,7 @@ Built  an  application  that  helped  people  to  find  local  skilled/unskilled
 # Publications
 Asha Joseph, Shiju George, **Robert K Samuel,** “*A P2P Digital Voting system for elections in India*”, InternationalConference on IT & Computer Science, 2021
 
-Shiju George, **Robert K Samuel,** Sijo M Thomas, Jose Francis “*Designing an Autonomous MAV for an Efficient FANET*”, InternationalConference on IT & Computer Science, 2021
-
+Shiju George, **Robert K Samuel,** Sijo M Thomas, Jose Francis “*Designing an Autonomous MAV for an Efficient FANET*”, Will be published soon.
 ---
 
 <br>
