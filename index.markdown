@@ -17,14 +17,14 @@ I love to read a lot. In my free time I also develop web applications to familia
 
 # Ongoing Projects
 
-### Skynet -- Final Year Project
+### Welkinet -- Final Year Project
 <img style="float: left; margin-right:10px; height:50px; width:50px;" src="images/swarm.png">
-Project Skynet aims at developing a FANET for MAVs to enable them to share resources efficiently, thus increasing the flight time of all associated MAVs. As the number of sensors in MAVs increases, flight time decreases rapidly. With a swarm of such MAVs, flight time matters, and the data from all of the MAVs might not be needed most of the time. A FANET can significantly increase flight time if an MAV shares its local resources efficiently with other MAVs, including sensor data, location, and so on. <br><br><br>
+Project Welkinet aims at developing a FANET for MAVs to enable them to share resources efficiently, thus increasing the flight time of all associated MAVs. As the number of sensors in MAVs increases, flight time decreases rapidly. With a swarm of such MAVs, flight time matters, and the data from all of the MAVs might not be needed most of the time. A FANET can significantly increase flight time if an MAV shares its local resources efficiently with other MAVs, including sensor data, location, and so on. <br><br><br>
 
 
 ### Herd Ai
 <img style="float: left; margin-right:10px; height:50px; width:50px;" src="images/herd.jpg">
-The aim of this project is to create autonomous Micro UAVs capable of performing swarm intelligence. A custom flight controller and software libraries are being developed for this purpose. The ASCII and Department of IT@AJCE have funded this open-source project. More about this project can be [found here.](https://johnmaxrin.github.io/herdAI/)
+The aim of this project is to create autonomous Micro UAVs capable of performing swarm intelligence. A custom flight controller and software libraries are being developed for this purpose. The ASCII and Department of IT@AJCE have funded this open-source project. More about this project can be [found here.](https://herdai.herokuapp.com/)
 
 ---
 <br>
