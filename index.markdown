@@ -24,7 +24,7 @@ Project Welkinet aims at developing a FANET for MAVs to enable them to share res
 
 ### Herd Ai
 <img style="float: left; margin-right:10px; height:50px; width:50px;" src="images/herd.jpg">
-The aim of this project is to create autonomous Micro UAVs capable of performing swarm intelligence. A custom flight controller and software libraries are being developed for this purpose. The ASCII and Department of IT@AJCE have funded this open-source project. More about this project can be [found here.](https://herdai.herokuapp.com/)
+The aim of this project is to create autonomous Micro UAVs capable of performing swarm intelligence. A custom flight controller and software libraries are being developed for this purpose. The ASCII and Department of IT@AJCE have funded this open-source project. More about this project can be [found here.](https://johnmaxrin.github.io/herdAI)
 
 ---
 <br>
